@@ -10,7 +10,7 @@ This is repository for the coursework: Statistics with R
 
 > Linear Regression and Modeling 
 
-** Tools used: **
+**Tools used:**
 R
 
 ## Introduction to Probability and Data:
