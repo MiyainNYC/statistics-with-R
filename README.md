@@ -21,3 +21,10 @@ R
 * statistical inference for numerical and categorical data
 * hypothesis tests
 * interpret p-value
+
+## Bayesian Statistics
+* Bayes' rule to transform prior probabilities into posterior probabilities
+*  underlying theory and perspective of the Bayesian paradigm
+*  end to end Bayesian analyses that move from framing the question to building models to eliciting prior probabilities 
+*  the credible regions, Bayesian comparisons of means and proportions, Bayesian regression and inference using multiple models
+*  Bayesian prediction
