@@ -28,3 +28,7 @@ R
 *  end to end Bayesian analyses that move from framing the question to building models to eliciting prior probabilities 
 *  the credible regions, Bayesian comparisons of means and proportions, Bayesian regression and inference using multiple models
 *  Bayesian prediction
+
+
+## Linear Regression and Modeling
+
